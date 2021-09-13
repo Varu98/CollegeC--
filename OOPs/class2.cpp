@@ -10,7 +10,7 @@ public:
     void getData();
     void display();
 };
-
+// add new comment
 void person::getData()
 {
     cout << "Enter Your Name ";
